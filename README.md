@@ -1,3 +1,6 @@
 # Teachable Machine을 활용한 WebApp
+Teachable Machine으로 이미지 분류하는 WdbApp입니다.   
+이미지는 착장의 종류 후드, 티, 신발로 분류합니다.
+   
+## 사용 언어
 
-<a href="#E34F26"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
