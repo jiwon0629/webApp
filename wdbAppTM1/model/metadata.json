@@ -1,0 +1,13 @@
+{
+    "labels": [
+      "Class 1",
+      "Class 2",
+      "Class 3"
+    ],
+    "model": {
+      "name": "Teachable Machine Model",
+      "version": "1.0",
+      "description": "This is a Teachable Machine model trained on custom data."
+    },
+    "version": 1
+  }
